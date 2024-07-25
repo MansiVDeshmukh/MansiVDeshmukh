@@ -5,7 +5,7 @@
 # Intro:
 I am currently undergraduate in   Artificial Intelligence engineering.
 # Skills:
-I am comfortable in frontend with HTML. 
+I am comfortable with HTML,CSS,SQL,Basics of python and c++
 # projects:
 None 
 # Github Stats:
