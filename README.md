@@ -5,7 +5,7 @@
 # Intro:
 I am currently undergraduate in   Artificial Intelligence engineering.
 # Skills:
-I am comfortable with C++, HTML, CSS, Javascript, MongoDB, SQL, Express.js, Node.js, React.js
+I am comfortable with C++, OOPs, HTML, CSS, Javascript, MongoDB, SQL, Express.js, Node.js, React.js, BootStrap, RESTful APIs.
 # projects:
   1.Spotify Clone
   <br>
